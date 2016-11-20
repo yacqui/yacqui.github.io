@@ -1,0 +1,14 @@
+{
+  "name": "Mapa Departamento de Boyaca",
+  "version": "1.0.0",
+  "description": "Servicio OGC Departamento de Boyaca",
+  "attribution": "OSM", 
+  "type": "baselayer",
+  "color": "#FFFFFF",
+  "format": "png",
+  "minzoom": "9",
+  "maxzoom": "13",
+  "bounds": "-74.952,7.096,-71.911,4.571",
+  "scale": "1",
+  "profile": "mercator"
+}
